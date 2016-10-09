@@ -1,0 +1,38 @@
+3
+
+FootyHolidayTour
+Melbourne Footy Trip
+AFL
+2016-09-01
+2016-09-02
+Melbourne Cricket Ground
+Footy Game Trip
+David Beckham
+3
+Forrest McCarty,1990-03-05,G12345,Australian
+Calvin Wells,1966-05-31,A32145,American
+Lester Hull,1988-07-19,S31243,Chinese
+Melbourne Footy Club
+
+BusinessTrip
+Sydney Trip
+A Trip Agency
+2017-02-05
+2017-02-05
+Sydney Opera House
+Wonderful Sydney Trip
+Michael Jordan
+0
+
+SchoolHikeEvent
+Melbourne High School
+Dandenong Mountain Trip
+2017-10-05
+2016-10-06
+Dandenong Mountain 
+Mountain Hiking
+Kobe Bryant
+0
+Mr. Jackson,1980-08-19,AS12345,Australian
+2
+
